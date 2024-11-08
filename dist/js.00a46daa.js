@@ -238,8 +238,6 @@ function _default(obj) {
 var _Product = _interopRequireDefault(require("./Product"));
 var _RenderProduct = _interopRequireDefault(require("./RenderProduct"));
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
-// Write your code here...
-
 const products = document.querySelector(".products");
 const nameInp = document.querySelector("input[name=name]");
 const costInp = document.querySelector("input[name=cost]");
