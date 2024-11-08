@@ -1,4 +1,3 @@
-// Write your code here...
 import Product from "./Product";
 import RenderProduct from "./RenderProduct";
 
